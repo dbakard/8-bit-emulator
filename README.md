@@ -1,4 +1,4 @@
-# C++ NES Emulator
-> Based on javidx9's [C++: NES Emulator From Scratch](https://www.youtube.com/playlist?list=PLrOv9FMX8xJHqMvSGB_9G9nZZ_4IgteYf)
+# C++ 8-bit Emulator
+> Based on Lauren Mullers's [C++: CHIP-8 interpreter](https://multigesture.net/articles/how-to-write-an-emulator-chip-8-interpreter/)
 
-**Contributors:** [Davis Akard](https://github.com/dbakard), [Tyler Hall](https://github.com/thall49), [Viktor Potter](https://github.com/Vikpal1), [Ryan Thweatt](https://github.com/rthweatt3930)
+**Contributors:** [Davis Akard](https://github.com/dbakard), [Tyler Hall](https://github.com/thall49), [Viktor Potter](https://github.com/Vikpal1), [Finn Sparks](https://github.com/FinnSpar), [Ryan Thweatt](https://github.com/rthweatt3930)
